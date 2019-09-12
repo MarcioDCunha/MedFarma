@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
 [![Total Downloads](https://img.shields.io/packagist/dt/cakephp/app.svg?style=flat-square)](https://packagist.org/packages/cakephp/app)
 
-O MedFarma é uma aplicação creada com [CakePHP](https://cakephp.org) 7.1.32, para teste.
+O MedFarma é uma aplicação criada, com [CakePHP](https://cakephp.org) 7.1.32, para teste.
 
 The framework source code can be found here: [cakephp/cakephp](https://github.com/cakephp/cakephp).
 
@@ -29,7 +29,7 @@ Antes de iniciar o servidor,
 
 Crie um Banco de Dados, <b>MySql</b>, chamado <b>dbmedfar</b>.
 
-Na pasta bin, dê o comando de Migrate.
+e, na pasta bin, dê o comando de Migrate.
 
 bin/cake migrations migrate
 
