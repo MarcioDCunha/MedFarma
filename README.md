@@ -23,15 +23,17 @@ In case you want to use a custom app dir name (e.g. `/myapp/`):
 ```bash
 composer create-project --prefer-dist cakephp/app myapp
 ```
+---------------------------------------------------------------------------------------------------------
 
 Antes de iniciar o servidor, 
 
-Crie um Banco de Dados, MySql, chamado dbmedfar.
+Crie um Banco de Dados, <b>MySql</b>, chamado <b>dbmedfar</b>.
 
 Na pasta bin, dê o comando de Migrate.
 
 bin/cake migrations migrate
 
+----------------------------------------------------------------------------------------------------------
 
 You can now either use your machine's webserver to view the default home page, or start
 up the built-in webserver with:
